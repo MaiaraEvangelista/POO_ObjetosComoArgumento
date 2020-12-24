@@ -1,0 +1,13 @@
+/home/maiara/Área de Trabalho/Backend C#/Objetos como Argumento17/bin/Debug/netcoreapp3.1/Objetos como Argumento17
+/home/maiara/Área de Trabalho/Backend C#/Objetos como Argumento17/bin/Debug/netcoreapp3.1/Objetos como Argumento17.deps.json
+/home/maiara/Área de Trabalho/Backend C#/Objetos como Argumento17/bin/Debug/netcoreapp3.1/Objetos como Argumento17.runtimeconfig.json
+/home/maiara/Área de Trabalho/Backend C#/Objetos como Argumento17/bin/Debug/netcoreapp3.1/Objetos como Argumento17.runtimeconfig.dev.json
+/home/maiara/Área de Trabalho/Backend C#/Objetos como Argumento17/bin/Debug/netcoreapp3.1/Objetos como Argumento17.dll
+/home/maiara/Área de Trabalho/Backend C#/Objetos como Argumento17/bin/Debug/netcoreapp3.1/Objetos como Argumento17.pdb
+/home/maiara/Área de Trabalho/Backend C#/Objetos como Argumento17/obj/Debug/netcoreapp3.1/Objetos como Argumento17.csprojAssemblyReference.cache
+/home/maiara/Área de Trabalho/Backend C#/Objetos como Argumento17/obj/Debug/netcoreapp3.1/Objetos como Argumento17.AssemblyInfoInputs.cache
+/home/maiara/Área de Trabalho/Backend C#/Objetos como Argumento17/obj/Debug/netcoreapp3.1/Objetos como Argumento17.AssemblyInfo.cs
+/home/maiara/Área de Trabalho/Backend C#/Objetos como Argumento17/obj/Debug/netcoreapp3.1/Objetos como Argumento17.csproj.CoreCompileInputs.cache
+/home/maiara/Área de Trabalho/Backend C#/Objetos como Argumento17/obj/Debug/netcoreapp3.1/Objetos como Argumento17.dll
+/home/maiara/Área de Trabalho/Backend C#/Objetos como Argumento17/obj/Debug/netcoreapp3.1/Objetos como Argumento17.pdb
+/home/maiara/Área de Trabalho/Backend C#/Objetos como Argumento17/obj/Debug/netcoreapp3.1/Objetos como Argumento17.genruntimeconfig.cache
